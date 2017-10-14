@@ -15,10 +15,12 @@ Python:
 
 The methodoloy can be divided into two parts:
 
-1. Data exploration and visualization \n
+1. Data exploration and visualization
+
 I started by loading the data set and exploring the different features with numpy and Pandas. Then, I moved to some data visualization in order to get some insights and a better grasp of the dataset.
 
-2. Data cleaning and Machine Learning (prediction) \n
+2. Data cleaning and Machine Learning (prediction)
+
 The data cleaning consists of getting rid of all the columns that are not numerical after transforming them into dummies columns. The user_id column was also removed as it contains irrelevant information for the prediction. Last step of data cleaning consists of dividing the the dataset into a training set (on which we will fit a model) and cross-validation set where we will fine-tune the hyper-parameters.
 
 Once the data is cleaned, two models have been fit to it: a logistic regression model and a random forest model.
