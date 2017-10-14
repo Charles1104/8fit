@@ -1,7 +1,7 @@
 # 8fit
 ## Data Science assignment
 
-<img src="100.jpg" alt="Drawing" style="width: 50px;"/>
+<img src="100.jpg" alt="Drawing" style="height: 50px;"/>
 
 ### Tech used
 Python:
