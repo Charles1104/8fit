@@ -2,7 +2,7 @@
 ## Data Science assignment
 
 <div align = 'center'>
-<img src="8fit.jpg" alt="Drawing"/>
+    <img src="data/8fit.jpg" alt="Drawing"/>
 </div>
 
 ### Tech used
@@ -26,6 +26,10 @@ Once the data is cleaned, two models have been fit to it: a logistic regression 
 ### Results
 
 A gridsearch on different hyper-parameters was applied for each of the model in order to consider various hyper-parameters and select the ones that outcome the best accuracy. Basically, all hyper-parameters combinations gave the same accuracy. The logistic model outperformed the random forest model by 4% for a final accuracy of 70%. It is worth noting that 70% of the customer have a 0 value so predicting every customer with 0 would lead to the same accuracy result. Therefore a better metric is the F score that takes into account both false negatives and false positives.
+
+An important step (not done) to check overfitting would be to compare the predictions on the training and the test set. A high difference would suggest overfitting of the model on training set.
+
+Regarding the accuracy of the model, a ROC curve could be drawn and the AUC (area under the curve) would give more sense as it is also a metric that considers false positive and true positive rate.
 
 ### Next steps
 
