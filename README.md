@@ -1,7 +1,9 @@
 # 8fit
 ## Data Science assignment
 
-<img src="8fit.jpg" alt="Drawing" align="middle" style="height: 50%;"/>
+<div align = 'center'>
+<img src="8fit.jpg" alt="Drawing"/>
+</div>
 
 ### Tech used
 Python:
