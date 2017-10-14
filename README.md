@@ -1,8 +1,7 @@
 # 8fit
 ## Data Science assignment
 
-![alt text](100.jpg)
-<img src="100.jpg" alt="Drawing" style="width: 100px;"/>
+<img src="100.jpg" alt="Drawing" style="width: 50px;"/>
 
 ### Tech used
 Python:
