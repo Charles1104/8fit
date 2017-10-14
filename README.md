@@ -1,13 +1,13 @@
 # 8fit
 ## Data Science assignment
 
-<img src="100.jpg" alt="Drawing" style="height: 50%;"/>
+<img src="8fit.jpg" alt="Drawing" style="height: 50%;"/>
 
 ### Tech used
 Python:
  - Numpy and Pandas libraries for data exploration
- - Matplotlib for data visualization
- - Scikit for machine learning
+ - Matplotlib library for data visualization
+ - Scikit library for machine learning
 
 ### Methodology
 
