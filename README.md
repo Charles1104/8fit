@@ -2,6 +2,7 @@
 ## Data Science assignment
 
 ![alt text](100.jpg)
+<img src="100.jpg" alt="Drawing" style="width: 100px;"/>
 
 ### Tech used
 Python:
