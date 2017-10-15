@@ -21,7 +21,7 @@ I started by loading the data set and exploring the different features with nump
 
 2. Data cleaning and Machine Learning (prediction)
 
-The data cleaning consists of getting rid of all the columns that are not numerical after transforming them into dummies columns. The user_id column was also removed as it contains irrelevant information for the prediction. Last step of data cleaning consists of dividing the the dataset into a training set (on which we will fit a model) and cross-validation set where we will fine-tune the hyper-parameters.
+The data cleaning consists of getting rid of all the columns that are not numerical after transforming them into dummies columns. The user_id column was also removed as it contains irrelevant information for the prediction. Last step of data cleaning consists of dividing the the dataset into a training set (on which we will fit a model) containing 80% of the data and a test set with the remaining 20%.
 
 Once the data is cleaned, two models have been fit to it: a logistic regression model and a random forest model.
 
